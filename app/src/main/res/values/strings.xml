@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">VIRAL ON SPOTIFY</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">LAGI VIRAL ON SPOTIFY</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Fall In Love Alone</item>
+        <item>Deritaku</item>
+        <item>Apa Mungkin</item>
+        <item>Here With Me</item>
+        <item>As It Was</item>
+        <item>Evaluasi</item>
+        <item>Thank You 4 Lovin Me</item>
+        <item>Andaikan Kau Datanga</item>
+        <item>There Is a Light Never Goes Out</item>
+        <item>We Fell in Love In October</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Stacey Ryan</item>
+        <item>David Bayu</item>
+        <item>Bernadya</item>
+        <item>D4vd</item>
+        <item>Seungkwan</item>
+        <item>Hindia</item>
+        <item>Paul Partophap</item>
+        <item>Andmesh</item>
+        <item>The Smiths</item>
+        <item>Girl In Red</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/fallin</item>
+        <item>@drawable/deritaku</item>
+        <item>@drawable/apamungkin</item>
+        <item>@drawable/here</item>
+        <item>@drawable/asitwas</item>
+        <item>@drawable/evaluasi</item>
+        <item>@drawable/thankyou</item>
+        <item>@drawable/andai</item>
+        <item>@drawable/thereis</item>
+        <item>@drawable/wefell</item>
+
+    </integer-array>
+
+</resources>
